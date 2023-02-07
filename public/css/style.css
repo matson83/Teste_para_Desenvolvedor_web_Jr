@@ -1,0 +1,62 @@
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+header{
+    background-color: #5B3508;
+
+}
+
+body{
+    background-color: #F2EADF;
+}
+
+.imagens{
+    display: block;
+    background-color: #F2EADF;
+    margin: 10px auto;
+    width: 400px;
+    height: 300px;
+    border: 5px solid #5B3508;
+    align-items: center;
+}
+
+#imagens-cardapio p{
+    text-align: center;
+    font-size: 3em;
+}
+
+#logo{
+    width: 150px;
+}
+
+.lista{
+    margin-left: 700px;
+}
+
+.navbar-item{
+    padding: 10px;
+    margin-left: 100px;
+
+}
+
+.navbar-link{
+    color:#F2EADF;
+
+}
+
+footer{
+    text-align: center;
+    padding: 30px;
+    bottom: 0;
+    width: 100%;
+    background-color: #5B3508;
+
+}
+
+footer p{
+    color: #F2EADF;
+    margin-bottom: 0;
+    background-color: #5B3508;
+}
